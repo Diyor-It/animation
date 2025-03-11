@@ -1,0 +1,15 @@
+@keyframes diyor{
+    from{background-color: aqua;}
+    to{background-color: black;}
+}
+
+
+
+.box{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+
+   animation-name: diyor;
+   animation-duration: 5s;
+}
